@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.5.5">
+<ModelTarget name="130KSkull" targetId="197b5d1163434f278fbd92b43c178178" version="14.0" toolVersion="10.5.5" bbox="-9.633181 -19.349602 0.011788 11.022176 17.259069 25.261816" previewImage="197b5d1163434f278fbd92b43c178178_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="130KSkulls_assembly" assemblyId="0e9955179a6a402e935cebfa0c908634">
+<Part name="130KSkull" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.210659 12.641 64.6231" rotation="AD: 0.295131 1.38465 -1.37851 163.085" image="" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

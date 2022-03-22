@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="130KSkull" motionHint="static" trackingMode="scan"/>
+
+</Tracking>
+
+<Assembly name="130KSkulls_assembly" assemblyId="0e9955179a6a402e935cebfa0c908634">
+<Part name="130KSkull" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.210659 12.641 64.6231" rotation="AD: 0.295131 1.38465 -1.37851 163.085" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
